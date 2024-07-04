@@ -1,3 +1,8 @@
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Piyush Aanand! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times&pause=1000&center=true&width=435&lines=+++++++Being+a+coder+until+my+keyboard+dies" alt="Typing SVG" /></a>
+</h2>
+<br>
+
 ### Hi there 👋
 # 💫 About Me:
 👨‍💻Computer Science Student <br>📌web Developer 
