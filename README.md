@@ -3,10 +3,24 @@
 </h2>
 <br>
 
-### Hi there 👋
-# 💫 About Me:
-👨‍💻Computer Science Student <br>📌web Developer 
+# 👨‍💻 Piyush Aanand
 
+> Shipping logic, not pixels.
+
+---
+
+### 🚀 About Me
+
+Hey there, I’m Piyush — a backend-focused developer who enjoys building systems that *work*, scale, and don’t fall apart under pressure. I’m passionate about automation, clean APIs, and solving real-world problems through code.
+
+Currently diving deep into:
+
+* 🧠 Java + Spring Boot (my bread and butter)
+* 🛢️SQL (because good data needs a solid home)
+* ⚙️ REST API design and clean architecture principles
+* 📈 Real-world backend workflows like payments, auth, and service integrations
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyush_aanand_731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-aanand-0800a9252) 
